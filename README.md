@@ -15,7 +15,7 @@ A Spring Boot REST app that exposes endpoints to -->
 
 • Associates the updated list of images with the user profile.
 
-• Views the User Basic Information and the Images
+• Views the User Basic Information and the Images.
 
 Furthermore, it integrates with Imgur API to upload, view, and delete the images.
 
