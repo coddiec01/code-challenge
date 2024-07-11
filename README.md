@@ -5,7 +5,7 @@ Application to register and sign in a user on Imgur using an Imgur API
 
 This application uses various Spring Framework components. For a detailed list of work cited references, please see the [Work Cited References](docs/work_cited.md) document.
 
-## The application considers the following in it's development: 
+## The application considers the following in its development: 
 
 A Spring Boot REST app that exposes endpoints to -->
 
