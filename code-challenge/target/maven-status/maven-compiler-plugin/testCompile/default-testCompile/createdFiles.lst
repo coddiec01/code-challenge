@@ -1,0 +1,7 @@
+com/synchrony/codechallenge/service/UserServiceTest.class
+com/synchrony/codechallenge/repository/ImageRepositoryTest.class
+com/synchrony/codechallenge/repository/UserRepositoryTest.class
+com/synchrony/codechallenge/CodeChallengeApplicationTests.class
+com/synchrony/codechallenge/service/ImageServiceTest.class
+com/synchrony/codechallenge/controller/UserControllerTest.class
+com/synchrony/codechallenge/controller/ImageControllerTest.class

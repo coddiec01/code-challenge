@@ -1,0 +1,15 @@
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/CodeChallengeApplication.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/CodeChallengeApplicationTests.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/config/SecurityConfig.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/controller/ImageController.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/controller/UserController.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/model/Image.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/model/User.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/repository/ImageRepository.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/repository/UserRepository.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/service/ImageService.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/service/ImageServiceImpl.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/service/UserService.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/service/UserServiceImpl.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/util/ImgurApiClient.java
+/Users/coddiecurry/Desktop/code-challenge/src/main/java/com/synchrony/codechallenge/util/ImgurResponse.java

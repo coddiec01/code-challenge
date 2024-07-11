@@ -1,0 +1,22 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          imgur:
+            client-id: 0015c0fb47cb4c5
+            client-secret: 9c81a36140243776be73c8491b30f33220f2074f
+            authorization-grant-type: authorization_code
+            redirect-uri: "{baseUrl}/login/oauth2/code/imgur"
+            scope: read write
+            client-name: Imgur
+        provider:
+          imgur:
+            authorization-uri: https://api.imgur.com/oauth2/authorize
+            token-uri: https://api.imgur.com/oauth2/token
+            user-info-uri: https://api.imgur.com/3/account/me
+            user-name-attribute: id
+server:
+  port: 8080
+  servlet:
+    context-path: /code-challenge

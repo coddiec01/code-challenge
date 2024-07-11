@@ -1,0 +1,15 @@
+com/synchrony/codechallenge/config/SecurityConfig.class
+com/synchrony/codechallenge/util/ImgurResponse$Data.class
+com/synchrony/codechallenge/model/Image.class
+com/synchrony/codechallenge/service/UserService.class
+com/synchrony/codechallenge/controller/UserController.class
+com/synchrony/codechallenge/repository/ImageRepository.class
+com/synchrony/codechallenge/service/ImageService.class
+com/synchrony/codechallenge/controller/ImageController.class
+com/synchrony/codechallenge/model/User.class
+com/synchrony/codechallenge/CodeChallengeApplication.class
+com/synchrony/codechallenge/service/UserServiceImpl.class
+com/synchrony/codechallenge/repository/UserRepository.class
+com/synchrony/codechallenge/util/ImgurApiClient.class
+com/synchrony/codechallenge/util/ImgurResponse.class
+com/synchrony/codechallenge/service/ImageServiceImpl.class
