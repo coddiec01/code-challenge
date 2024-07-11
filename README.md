@@ -22,8 +22,10 @@ Furthermore, it integrates with Imgur API to upload, view, and delete the images
   the user's username and password to authenticate the user.
 
 • Inyegrare's the imgur's API withn Imgur Client API class to enable uploading, viewing, and deleting of user's images extracted through the user's Id. 
+
 • ALthough UI was not implemented, HTML and CSS files can be incorporated through the Controller layer as this is the layer that communicates with the HTTP client-side, 
   by returning the HTML and CSS "forms" within the Controller layer.
+  
 • Test cases were implemented and attempted with all layers of the architecture (Controller, Service, and Repository) in consideration.
 
 ### Bonus
