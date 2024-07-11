@@ -7,12 +7,15 @@ This application uses various Spring Framework components. For a detailed list o
 
 ## The application considers the following in it's development: 
 
-Create a Spring Boot REST app that exposes endpoints to -->
+A Spring Boot REST app that exposes endpoints to -->
 
-• Register a User with basic information, username, and password
-• Upload, view and delete images after authorizing the username/password.
-• Associate the updated list of images with the user profile
-• View the User Basic Information and the Images
+• Registers a User with basic information, username, and password.
+
+• Uploads, views and deletes images after authorizing the username/password.
+
+• Associates the updated list of images with the user profile.
+
+• Views the User Basic Information and the Images
 
 Furthermore, it integrates with Imgur API to upload, view, and delete the images.
 
